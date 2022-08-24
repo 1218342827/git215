@@ -1,2 +1,3 @@
 # git215
-Requested example repository for Module 1
+## Author: Daniela Pastor
+
